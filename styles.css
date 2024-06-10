@@ -1,0 +1,68 @@
+header {
+  z-index: 0;
+  height: 100px;
+  width: 100%;
+  
+}
+
+welcome {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  text-align: left;
+  width: 100%;
+color: #ff8484;  background-color: black;
+}
+
+h3 {
+color: black;
+}
+
+.project-tile {
+  display: inline-block;
+  width: 30%;
+  justify-content: space-between;
+  align-items: right;
+  right: 0;
+}
+
+.class {
+  text-align: center;
+}
+
+nav a {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: right;
+  right: 0;
+  color: #ff8484;
+}
+
+body {
+ background-color: #ff8484;
+ color: black;
+}
+
+.link{
+  color: black;
+}
+@media only screen and (max-width: 600px) {
+  #header {
+  
+  color: black;
+} 
+.nav-link {
+  color: black;
+}
+ul a {
+  float: left;
+}
+
+#resume{
+  color: black;
+}
+}
