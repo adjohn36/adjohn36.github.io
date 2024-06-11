@@ -13,7 +13,7 @@ welcome {
   align-items: center;
   text-align: left;
   width: 100%;
-color: #ff8484;  background-color: black;
+color: #84d8ff;  background-color: black;
 }
 
 h3 {
@@ -39,11 +39,11 @@ nav a {
   justify-content: space-between;
   align-items: right;
   right: 0;
-  color: #ff8484;
+  color: #84d8ff;
 }
 
 body {
- background-color: #ff8484;
+ background-color: #84d8ff;
  color: black;
 }
 
